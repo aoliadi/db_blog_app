@@ -6,6 +6,17 @@
       "content" : "My first content!"
     }
   ],
+"guardian": {
+  "status": "ok",
+  "userTier": "developer",
+  "total": 2363122,
+  "startIndex": 1,
+  "pageSize": 15,
+  "currentPage": 1,
+  "pages": 157542,
+  "orderBy": "newest",
+  "results": []
+},
   "comments" : [
     {
       "id": 0,
