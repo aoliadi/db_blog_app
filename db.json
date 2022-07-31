@@ -1,4 +1,10 @@
 {
+  "another": [
+    {
+      "id": 0,
+      "content": "nothing to see here!"
+    }
+  ],
   "posts":[
     {
       "id" : 0,
