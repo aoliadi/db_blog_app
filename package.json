@@ -1,15 +1,15 @@
 {
-  "name": "json-server-deploy",
+  "name": "Guardian Blog",
   "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
+  "description": "A simple website that render news from Guardian API (indirectly).",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [
-    "json-server,heroku, node, REST API"
+    "json-server, heroku, react, node, REST API, the Guardian, blog"
   ],
-  "author": "Jesper Orb",
+  "author": "aoliadi",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
