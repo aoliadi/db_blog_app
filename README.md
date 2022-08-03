@@ -1,2 +1,3 @@
 # Blog App DB
- The backend of [this](https://github.com/aoliadi/guardian) repository.
+A database built on json-server and works for
+- [Guardian](http://guardian-zeta.vercel.app). The [repository](https://github.com/aoliadi/guardian).
